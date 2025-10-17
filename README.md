@@ -16,7 +16,7 @@ Since this addon is unsigned, you cannot install it directly from the Firefox Ad
 
 ### Steps:
 
-1. **Download the Addon**: Download the `.xpi` file (the Firefox addon file) from [this page](URL-to-your-addon).
+1. **Download the Addon**: Download the `.xpi` file (the Firefox addon file) from [here](https://github.com/devmarxx/Startpage-Cleaner/blob/main/startpage-cleaner.xpi).
 
 2. **Adjust Firefox Configuration**: To install unsigned addons, you need to make a few changes in the **about:config** settings of Firefox.
 
