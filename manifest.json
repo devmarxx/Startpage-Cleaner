@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "Startpage Cleaner",
+  "version": "1.0",
+  "description": "Entfernt Sponsored Links von Startpage",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "permissions": [
+    "tabs",
+    "https://www.startpage.com/*",
+    "https://startpage.com/*"
+  ],
+  "icons": {
+    "18": "icons/icon-18.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "applications": {
+    "gecko": {
+      "id": "startpage-sponsored-block-remover@local"
+    }
+  }
+}
