@@ -1,6 +1,6 @@
 # Sponsored Links Blocker for Startpage.com (Firefox Addon)
 
-This Firefox addon hides the "Sponsored" links on the search engine [startpage.com](https://www.startpage.com/) to provide a cleaner and more user-friendly search experience (tested on the German version of startpage).
+This Firefox addon hides the "Sponsored" links on the search engine [startpage.com](https://www.startpage.com/) to provide a cleaner and more user-friendly search experience (tested on the German version of startpage in October 2025).
 
 **Important**: This addon is **unsigned** and will remain unsigned in the future. This means you will need to install it manually, as it is not available through the official Firefox Add-ons marketplace.
 
